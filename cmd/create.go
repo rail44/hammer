@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/daichirata/hammer/internal/hammer"
+	"github.com/rail44/hammer/internal/hammer"
 	"github.com/spf13/cobra"
 )
 

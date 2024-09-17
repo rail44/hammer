@@ -3,7 +3,7 @@ package hammer_test
 import (
 	"testing"
 
-	"github.com/daichirata/hammer/internal/hammer"
+	"github.com/rail44/hammer/internal/hammer"
 )
 
 func TestScheme(t *testing.T) {

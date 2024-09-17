@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/daichirata/hammer/internal/hammer"
+	"github.com/rail44/hammer/internal/hammer"
 )
 
 type StringSource string
